@@ -77,3 +77,6 @@
           #- 'source-prometheus-2:9090'
           #- 'source-prometheus-3:9090'
 
+
+![prometheus](https://github.com/Delaunay/cheatsheets/blob/master/assets/prometheus.png)
+![prometheus_overall](https://github.com/Delaunay/cheatsheets/blob/master/assets/prometheus_overall.png)
