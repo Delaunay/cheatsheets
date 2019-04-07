@@ -77,3 +77,14 @@
           #- 'source-prometheus-2:9090'
           #- 'source-prometheus-3:9090'
 
+
+# Exporters & misc
+
+* https://github.com/prometheus/alertmanager
+* https://github.com/prometheus/prometheus
+* https://github.com/ncabatoff/process-exporter
+* https://github.com/NVIDIA/gpu-monitoring-tools/tree/master/exporters/prometheus-dcgm
+
+
+
+
