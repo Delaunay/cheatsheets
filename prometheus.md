@@ -1,4 +1,6 @@
 
+* https://prometheus.io/docs/prometheus/latest/federation/
+
 # Setup Prometheus Node to listen to Node Exporter
     
     
