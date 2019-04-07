@@ -1,4 +1,6 @@
 
+* https://prometheus.io/docs/prometheus/latest/federation/
+
 # Setup Prometheus Node to listen to Node Exporter
     
     
@@ -86,5 +88,6 @@
 * https://github.com/NVIDIA/gpu-monitoring-tools/tree/master/exporters/prometheus-dcgm
 
 
-
+![prometheus](https://github.com/Delaunay/cheatsheets/blob/master/assets/prometheus.png)
+![prometheus_overall](https://github.com/Delaunay/cheatsheets/blob/master/assets/prometheus_overall.png)
 
